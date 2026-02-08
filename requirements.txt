@@ -1,0 +1,6 @@
+aiogram==3.13.*
+ccxt
+pandas
+numpy
+mplfinance
+requests
